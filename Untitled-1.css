@@ -1,0 +1,21 @@
+body{margin:0}
+div{border rgb(231,8,8)solid 2px;margin: 2px; margin:2px}
+
+#um{float:left;background-color: blueviolet;
+width: 40%;
+height: 400px;}
+
+#dois {background-color: chartreuse;
+float:left;
+width: 40%;
+height: 400px;}
+
+#tres {background-color: aquamarine;
+float: left;
+width: 40%;
+height: 400px;}
+
+#quatro {background-color: darkorange
+float: left;
+width: 40%;
+height: 400px;}
